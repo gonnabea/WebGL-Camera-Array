@@ -1,0 +1,9 @@
+{
+  "name": "WebGL-Camera-Array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
